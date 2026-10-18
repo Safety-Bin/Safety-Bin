@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="profile-title profile-desc">
+  <title id="profile-title">Subin Jeon — Safety and EHS</title>
+  <desc id="profile-desc">A navy portfolio banner with a teal checklist illustration. Field insight to practical tools.</desc>
+  <rect width="1200" height="280" rx="20" fill="#101F32"/>
+  <path d="M64 246H1136" stroke="#2D4055"/>
+  <rect x="64" y="53" width="5" height="23" rx="2.5" fill="#4CD3C0"/>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="84" y="72" fill="#70DFCE" font-size="18" font-weight="650" letter-spacing="3">SAFETY &amp; EHS</text>
+    <text x="64" y="147" fill="#F5F8FC" font-size="53" font-weight="700" letter-spacing="1">SUBIN JEON</text>
+    <text x="66" y="194" fill="#B8C8D8" font-size="23" font-weight="400">Field insight to practical tools</text>
+  </g>
+  <g transform="translate(858 46)">
+    <rect x="24" y="10" width="240" height="174" rx="16" fill="#182B40" stroke="#3B5269"/>
+    <rect x="47" y="0" width="104" height="25" rx="7" fill="#31506A"/>
+    <path d="M58 58l7 7 13-15M58 102l7 7 13-15M58 146l7 7 13-15" fill="none" stroke="#70DFCE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100 58h125M100 102h100M100 146h114" stroke="#8EA6BB" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="249" cy="170" r="25" fill="#EDB36B"/>
+    <path d="M239 170h20M249 160v20" stroke="#101F32" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
